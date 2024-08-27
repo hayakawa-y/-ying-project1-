@@ -32,6 +32,39 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8175648,
+      "category": "sport",
+      "title": "swimming",
+      "description": "let's be the first who can swinmming in the ocean.",
+      "location": "puhket",
+      "date": "July 12, 2022",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Ned"
+    },
+    {
+      "id": 1002,
+      "category": "food",
+      "title": "Canned Food Drive",
+      "description": "Bring your canned food to donate to those in need.",
+      "location": "Tin City",
+      "date": "September 14, 2022",
+      "time": "3:00",
+      "petsAllowed": true,
+      "organizer": "Kahn Opiner"
+    },
+    {
+      "id": 1003,
+      "category": "sustainability",
+      "title": "Highway Cleanup",
+      "description": "Help pick up trash along the highway.",
+      "location": "Highway 50",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Brody Kill"
     }
   ]
 }
